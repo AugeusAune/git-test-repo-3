@@ -1,0 +1,4 @@
+config.txt
+data/
+
+biasanya file gitignore untuk file config config seperti database dan lain lain yang penting 
